@@ -113,6 +113,4 @@ The packaged JAR will be available in the `target/` directory and can be run wit
 java -jar target/SpringBootCrudExample-0.0.1-SNAPSHOT.jar
 ```
 
-## License
 
-This project is for educational/demo purposes.
