@@ -18,8 +18,6 @@ A RESTful CRUD API built with **Spring Boot 3.4.1** and **MongoDB**, demonstrati
 - Full CRUD operations (Create, Read, Update, Delete)
 - MongoDB document storage and repository-based data access
 - Clean, layered project structure for maintainability
-- Centralized exception handling with meaningful error responses
-- Unit tests for service and controller layers using Mockito
 
 ## Prerequisites
 
