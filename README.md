@@ -1,6 +1,6 @@
 # SpringBootCrudExample
 
-A RESTful CRUD API built with **Spring Boot 3.4.1** and **MongoDB**, demonstrating a clean, layered architecture (Controller → Service → Repository) with proper exception handling and unit tests.
+A RESTful CRUD API built with Spring Boot 3.4.1 and MongoDB, demonstrating a clean, layered architecture (Controller → Service → Repository) with proper exception handling and unit tests.
 
 ## Tech Stack
 
